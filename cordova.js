@@ -1,0 +1,1 @@
+No Content: https://vetbossel.in/beginner-tutorial-website/cordova.js
